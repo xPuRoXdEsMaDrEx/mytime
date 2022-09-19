@@ -21,7 +21,7 @@ Screenshot is just for referance purposes, desktop version.
 
 ## Deployed Site Link
 
-- 
+- https://xpuroxdesmadrex.github.io/mytime/
 
 ## GitHub Link
 
